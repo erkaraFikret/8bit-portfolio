@@ -13,7 +13,7 @@ export default function Home() {
       <div className="nes-container with-title is-centered bg-blue-200 md:w-[45rem]">
         <p className="title">Greetings!</p>
         <p>
-          As a junior web developer, I'm eager to learn and grow in coding. I'm
+          As a junior web developer, I&apos;m eager to learn and grow in coding. I&apos;m
           exploring modern web technologies like Next.js and Tailwind CSS,
           building projects to enhance my skills. Feel free to connect if you
           want to discuss coding, projects, or exchange ideas!
