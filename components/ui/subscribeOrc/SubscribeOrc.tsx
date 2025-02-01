@@ -8,7 +8,7 @@ const SubscribeOrc = () => {
   return (
     <div className="fixed bottom-0 right-0 w-32 md:w-64">
       {showModal && (
-        <div className="nes-balloon from-right w-44">
+        <div className="nes-balloon from-right w-44 right-16 md:right-0">
           <p className="text-sm">Hello Warrior!</p>
         </div>
       )}
